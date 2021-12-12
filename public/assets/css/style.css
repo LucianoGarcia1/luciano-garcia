@@ -542,7 +542,7 @@ footer .footer__hours span{
     }
         
     .contato{
-        min-height: 900px;    
+        padding: 100px 0;
     }
 
     .contato__content{
