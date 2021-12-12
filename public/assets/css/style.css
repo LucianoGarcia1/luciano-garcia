@@ -272,10 +272,10 @@ body{
 .contato{
     width: 100%;
     display: flex;
-    align-items: flex-start;
     padding: 60px 0px;
     align-items: center;
-    min-height: 1000px;
+    justify-content: center;
+    min-height: 800px;
     flex-direction: column;
     gap: 5em;
 }
@@ -542,7 +542,7 @@ footer .footer__hours span{
     }
         
     .contato{
-        padding: 100px 0;
+        padding: 140px 0;
     }
 
     .contato__content{
