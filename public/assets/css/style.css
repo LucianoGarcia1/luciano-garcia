@@ -540,6 +540,10 @@ footer .footer__hours span{
     .sobre p{
         min-width: 100%;
     }
+        
+    .contato{
+        min-height: 700px;    
+    }
 
     .contato__content{
         flex-direction: column-reverse;
