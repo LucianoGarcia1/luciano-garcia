@@ -275,7 +275,7 @@ body{
     align-items: flex-start;
     padding: 60px 0px;
     align-items: center;
-    min-height: 600px;
+    min-height: 650px;
     flex-direction: column;
     gap: 5em;
 }
