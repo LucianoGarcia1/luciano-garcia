@@ -543,14 +543,14 @@ footer .footer__hours span{
         
     .contato{
         padding: 100px 0;
-        min-height: 900px;
+        min-height: 1000px;
     }
 
     .contato__content{
         flex-direction: column-reverse;
         align-items: center;
         justify-content: center;
-        gap: 2.5em;
+        gap: 3em;
     }
 
     .contato__content form{
