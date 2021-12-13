@@ -550,7 +550,7 @@ footer .footer__hours span{
         flex-direction: column-reverse;
         align-items: center;
         justify-content: center;
-        gap: 3em;
+        gap: 3.5em;
     }
 
     .contato__content form{
