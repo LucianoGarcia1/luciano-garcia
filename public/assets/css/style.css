@@ -547,7 +547,7 @@ footer .footer__hours span{
         
     .contato{
         padding: 100px 0;
-        height: 1200px;
+        min-height: 1050px;
     }
 
     .contato__content{
@@ -555,7 +555,7 @@ footer .footer__hours span{
         align-items: center;
         justify-content: center;
         gap: 3.5em;
-        }
+}
 
     .contato__content form{
         width: 100%;
@@ -600,7 +600,7 @@ footer .footer__hours span{
     }
 
     .contato{
-        min-height: 900px;
+        min-height: 800px;
         gap: 4em;
     }
 
