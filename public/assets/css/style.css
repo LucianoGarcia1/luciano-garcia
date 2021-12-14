@@ -595,8 +595,12 @@ footer .footer__hours span{
         width: 470px;
     }
 
-    .contato{
+    .serviços{
         min-height: 1000px;
+    }
+
+    .contato{
+        min-height: 900px;
         gap: 3em;
     }
 
@@ -604,11 +608,25 @@ footer .footer__hours span{
         max-width: 100%;
         width: 470px;
     }
+
+    .sobre{
+        min-height: 650px;
+    }
+}
+
+@media screen and (max-width: 420px){
+    .sobre{
+        padding: 40px 0;
+    }
 }
 
 @media screen and (max-width: 340px){
+    .serviços{
+        min-height: 1100px;
+    }
+
     .sobre{
-        padding: 20px 0;
-        min-height: 700px;
+        min-height: 800px;
+        padding: 50px 0;
     }
 }
