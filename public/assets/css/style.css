@@ -273,15 +273,12 @@ body{
 .contato{
     width: 100%;
     display: flex;
-<<<<<<< HEAD
     justify-content: center;
     padding: 60px 0px;
     align-items: center;
-=======
     padding: 60px 0px;
     align-items: center;
     justify-content: center;
->>>>>>> 8f9328e1401b659d42d3b98acf96038bdfeede5b
     min-height: 800px;
     flex-direction: column;
     gap: 5em;
@@ -557,11 +554,7 @@ footer .footer__hours span{
         flex-direction: column-reverse;
         align-items: center;
         justify-content: center;
-<<<<<<< HEAD
-        gap: 3em;
-=======
         gap: 3.5em;
->>>>>>> 8f9328e1401b659d42d3b98acf96038bdfeede5b
     }
 
     .contato__content form{
@@ -612,7 +605,7 @@ footer .footer__hours span{
         width: 470px;
     }
 }
-<<<<<<< HEAD
+
 
 @media screen and (max-width: 340px){
     .sobre{
@@ -620,5 +613,3 @@ footer .footer__hours span{
         min-height: 700px;
     }
 }
-=======
->>>>>>> 8f9328e1401b659d42d3b98acf96038bdfeede5b
