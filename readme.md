@@ -1,6 +1,6 @@
 ## Portfolio Dev Luciano Garcia
 
-### Resolve fazer esse portifólio e embreve vou Desenvolver um Melhor...
+### Dev esse portifólio e embreve irei usar como referência para um próximo portfólio...
 
 ### Tecnologias utilizadas para o Desenvolvimento
 - Html5
