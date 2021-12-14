@@ -555,7 +555,7 @@ footer .footer__hours span{
         align-items: center;
         justify-content: center;
         gap: 3.5em;
-    }
+        }
 
     .contato__content form{
         width: 100%;
@@ -605,7 +605,6 @@ footer .footer__hours span{
         width: 470px;
     }
 }
-
 
 @media screen and (max-width: 340px){
     .sobre{
